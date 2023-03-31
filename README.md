@@ -6,7 +6,7 @@ This project is a Roguelike game developed in Python, during the first year of p
 
     
 
-Capture d'écran du gameplay / screenshot of the gameplay
+Capture d'écran du gameplay / screenshot of the gameplay :
 
 
 
